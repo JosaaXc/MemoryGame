@@ -2,6 +2,8 @@ package com.example.mymemory.utils
 
 import com.example.mymemory.R
 
+const val EXTRA_BOARD_SIZE = "EXTRA_BOARD_SIZE"
+
 val DEAFULT_ICONS = listOf(
     R.drawable.ic_face,
     R.drawable.ic_gift,
